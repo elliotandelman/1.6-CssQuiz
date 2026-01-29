@@ -1,0 +1,28 @@
+body{
+    background-color: #FFE52A;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1{
+    text-align: center;
+    background-color: #BBCB64;
+    border: 3px solid #CF0F0F;
+    padding: 15px;
+}
+
+h3{
+    border: 2px dashed #CF0F0F;
+    text-decoration: underline;
+    padding: 5px;
+    text-decoration-color: #F79A19;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+img{
+    border: #CF0F0F 4px solid;
+    opacity: 0.6;
+    width: 350px;
+    padding: 10px;
+    background-color: #BBCB64;
+}
